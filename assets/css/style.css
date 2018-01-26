@@ -1,0 +1,16 @@
+div {
+  text-align: center;
+  padding: 2em;
+  color: white;
+}
+.uno {
+  background-color: red;
+}
+
+.dos {
+  background-color: blue;
+}
+
+.tres {
+  background-color: green;
+}
