@@ -1,6 +1,6 @@
-'use stric'
+'use strict'
 
-// burbuja: del más interno al más externo, booleand por default es false
+// burbuja: del más interno al más externo, boolean por default es false
 // captura: del más externo al más interno, boolean true
 /*
 var divs = document.querySelectorAll('div');
